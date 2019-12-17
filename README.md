@@ -11,7 +11,7 @@
  Users of all age groups, to identify their disease.
 
 ## Demo
- ![Alt Text](https://github.com/prasanna77cr7/ThePredictor/blob/master/DEMO/demoo.gif)
+
  
 ## Features
  - The application requires the user to click a picture of the affected area and that will provide the user with a diagnosis.
