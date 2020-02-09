@@ -1,4 +1,4 @@
-# ThePredictor
+# Classification of diseases using CNN
  An Application to predict different types of external diseases on Eye, Skin, Mouth and Nails.
  
 ## About
