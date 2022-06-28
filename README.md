@@ -10,6 +10,11 @@
 ## Who uses the app?
  Users of all age groups, to identify their disease.
 
+
+## Demo 
+![image](https://user-images.githubusercontent.com/40058943/176174820-3c60e974-1d01-4c17-8ef8-582ba31181b1.png)
+
+
  
 ## Features
  - The application requires the user to click a picture of the affected area and that will provide the user with a diagnosis.
